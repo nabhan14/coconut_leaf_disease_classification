@@ -24,6 +24,13 @@ The model achieved:
 - Validation Accuracy: 97.71%
 - Validation Loss: 0.0832
 
+# Home Page
+<img width="1918" height="1015" alt="Screenshot 2026-05-09 144118" src="https://github.com/user-attachments/assets/88775908-de08-4fab-87d6-bdc70365edc1" />
+# Prediction
+<img width="1918" height="1015" alt="Screenshot 2026-05-09 144206" src="https://github.com/user-attachments/assets/dfeaec6d-2bdb-4ae9-b3ed-982741d3ece2" />
+<img width="1918" height="1008" alt="Screenshot 2026-05-09 144336" src="https://github.com/user-attachments/assets/eb83fe22-2a5f-49a1-9dac-cfb9e6db0398" />
+
+
 # Features
 
 - Deep Learning based disease classification
